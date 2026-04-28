@@ -28,13 +28,16 @@ project:
     roles:
     - Formal analysis
     - Writing - review & editing
-  - name: Tanaka, S.
-    affiliations:
-    - College of Urban and Environmental Sciences, Peking University, Beijing, China
-    roles:
-    - Formal analysis
-    - Writing - original draft
-    - Writing - review & editing
+  - name: Zahra Samimi
+orcid: 0009-0004-4217-2318
+affiliations:
+- Neuromatch Academy, Neuromatch, Inc
+roles:
+- Conceptualization
+- Formal analysis
+- Investigation
+- Writing - original draft
+- Writing - review & editing
   - name: Vera Gutierrez, C.
     affiliations:
     - Institute of Geology, Mining, and Metallurgy, Universidad Nacional Mayor de San Marcos, Lima, Peru
